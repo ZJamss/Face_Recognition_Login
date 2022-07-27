@@ -3,6 +3,7 @@
 
 新建一个constant.Constant类
 配置如下
+
 public class Constant {
     public static class Baidu {
         public static final String APP_ID = 
@@ -17,3 +18,5 @@ public class Constant {
         public static final String BUCKET =
     }
 }
+
+
